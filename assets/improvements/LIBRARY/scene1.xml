@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="scene1" itemID="5f8ffb59-000000f2" linkageExportForAS="true" linkageClassName="scene1" lastModified="1603271691">
+  <timeline>
+    <DOMTimeline name="scene1" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="drawings/primitive_objects">
+                  <matrix>
+                    <Matrix tx="16.7" ty="12.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="102.75" y="80.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="sharing/shared_parrot" selected="true" centerPoint3DX="260.65" centerPoint3DY="65">
+                  <matrix>
+                    <Matrix a="0.319992065429688" d="0.319992065429688" tx="232.9" ty="20"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="86.7" y="140.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="drawings/pixi_test" centerPoint3DX="66.45" centerPoint3DY="213.6">
+                  <matrix>
+                    <Matrix a="0.499984741210938" d="0.499984741210938" tx="20" ty="185"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="406.3" y="260.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="drawings/bitmap_fill">
+                  <matrix>
+                    <Matrix tx="232.9" ty="131.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="148.5" y="66"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="drawings/strokes">
+                  <matrix>
+                    <Matrix tx="116.15" ty="176"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="53.15" y="29.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

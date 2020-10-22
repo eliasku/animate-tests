@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="trozos/perilla" itemID="5be5749f-0000017f" symbolType="graphic" lastModified="1541764255">
+  <timeline>
+    <DOMTimeline name="perilla" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-1033.75" ty="44.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1090" y="-78.05"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#723D09"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!20736 -889[#506E.4F #FFFE0D.CE 20791 -709!20791 -709[#512C.0E #FFFDCE.4C 20795 -458!20795 -458[#5149.EE #FFFE9D.A2 20886.5 -386!20886.5 -386[#51E3.2B #FFFE5E.6D 21033 -617!21033 -617[#534B.2F #FFFE42.FF 21146 -880!21146 -880[#5204.44
+ #FFFCAF.71 20903.5 -850.5!20903.5 -850.5[#514A.C1 #FFFCAB.8A 20736 -889"/>
+                    <Edge cubics="!20904 -850(;20842,-851 20786,-864 20736,-889q20904 -850Q20811 -852q20736 -889);"/>
+                    <Edge cubics="!20887 -386(;20938,-407 20986,-484 21033,-617q20887 -386Q20963 -418q21033 -617);"/>
+                    <Edge cubics="!20795 -458(;20805,-389 20836,-365 20887,-386q20795 -458Q20810 -354q20887 -386);"/>
+                    <Edge cubics="!20791 -709(;20784,-611 20785,-527 20795,-458q20791 -709Q20780 -562q20795 -458);"/>
+                    <Edge cubics="!20736 -889(;20639,-628 20657,-568 20791,-709q20736 -889Q20590 -498q20791 -709);"/>
+                    <Edge cubics="!21146 -880(;21046,-859 20965,-849 20904,-850q21146 -880Q20996 -849q20904 -850);"/>
+                    <Edge cubics="!21033 -617(;21226,-502 21264,-590 21146,-880q21033 -617Q21323 -445q21146 -880);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,105 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="scene3" itemID="5f8ffb21-000000cb" linkageExportForAS="true" linkageClassName="scene3" lastModified="1603271559">
+  <timeline>
+    <DOMTimeline name="scene3" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" duration="29" keyMode="9728" soundEffect="custom" soundName="import/bgm_children.mp3" soundSync="stream" soundLoop="9" outPoint44="992938" soundZoomLevel="8">
+              <SoundEnvelope>
+                <SoundEnvelopePoint mark44="66594" level0="20761" level1="29266"/>
+                <SoundEnvelopePoint mark44="115026" level0="5753" level1="9255"/>
+                <SoundEnvelopePoint mark44="115026" level0="5753" level1="22012"/>
+                <SoundEnvelopePoint mark44="211890" level0="10506" level1="6003"/>
+                <SoundEnvelopePoint mark44="339024" level0="16759" level1="24764"/>
+                <SoundEnvelopePoint mark44="357186" level0="17510" level1="15008"/>
+                <SoundEnvelopePoint mark44="423780" level0="21262" level1="25764"/>
+                <SoundEnvelopePoint mark44="640800" level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="38" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="import/preview_gif">
+                  <matrix>
+                    <Matrix tx="28" ty="29"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72" y="48"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="38" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="import/preview.png">
+                  <matrix>
+                    <Matrix tx="176" ty="29"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_5" color="#009999">
+          <frames>
+            <DOMFrame index="0" duration="38" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="import/bmp0305/Layer 30 copy">
+                  <matrix>
+                    <Matrix a="0.239990234375" d="0.239990234375" tx="119" ty="5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="135.2" y="127.1"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="38" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="import/8.jpg">
+                  <matrix>
+                    <Matrix tx="159" ty="159"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="64" y="89.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_6" color="#FF0000">
+          <frames>
+            <DOMFrame index="0" duration="38" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="import/test_png_24.png">
+                  <matrix>
+                    <Matrix tx="-33" ty="127"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="256" y="121.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

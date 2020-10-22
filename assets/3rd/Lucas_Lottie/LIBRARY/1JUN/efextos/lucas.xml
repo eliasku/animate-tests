@@ -1,0 +1,2457 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="1JUN/efextos/lucas" itemID="5b83b339-0000051c" lastModified="1588932651" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="lucas" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="brazo" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="8" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/brazo3d" symbolType="graphic" centerPoint3DX="1064.75" centerPoint3DY="-3.9" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9915771484375" b="-0.370330810546875" c="0.442367553710938" d="0.964691162109375" tx="1063.3" ty="-50.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.05" y="23"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/brazo3d" symbolType="graphic" centerPoint3DX="1102.75" centerPoint3DY="-18.85" loop="loop">
+                  <matrix>
+                    <Matrix a="0.511810302734375" b="0.85906982421875" c="-0.85906982421875" d="0.511810302734375" tx="1149.4" ty="-24.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6" y="22.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/brazod2" symbolType="graphic" centerPoint3DX="1070.8" centerPoint3DY="-2.95" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.00982666015625" b="0.8028564453125" c="0.94586181640625" d="-0.121826171875" tx="1043" ty="-29.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.4" y="52.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="13" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicOut">
+              <tweens>
+                <Ease target="all" method="cubicOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/brazod2" symbolType="graphic" centerPoint3DX="1073.2" centerPoint3DY="-16.4" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.59814453125" b="1.02008056640625" c="0.845382690429688" d="0.63604736328125" tx="1063.85" ty="-68.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.75" y="52.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/brazod2" symbolType="graphic" centerPoint3DX="1068.7" centerPoint3DY="-10.7" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.054656982421875" b="0.945785522460938" c="0.945785522460938" d="0.054656982421875" tx="1042.35" ty="-43"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.1" y="52.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/brazod2" symbolType="graphic" centerPoint3DX="1070.8" centerPoint3DY="-2.95" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.00982666015625" b="0.8028564453125" c="0.94586181640625" d="-0.121826171875" tx="1043" ty="-29.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.4" y="52.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/brazo3d" symbolType="graphic" centerPoint3DX="1102.75" centerPoint3DY="-18.85" loop="loop">
+                  <matrix>
+                    <Matrix a="0.511810302734375" b="0.85906982421875" c="-0.85906982421875" d="0.511810302734375" tx="1149.4" ty="-24.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6" y="22.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/brazo3d" symbolType="graphic" centerPoint3DX="1064.75" centerPoint3DY="-3.9" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9915771484375" b="-0.370330810546875" c="0.442367553710938" d="0.964691162109375" tx="1063.3" ty="-50.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.05" y="23"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="44" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="boca" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bocaLucas" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="1029.65" ty="-70.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.15" y="-4.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="bocaLucas" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.848785400390625" c="0.0327911376953125" tx="1019" ty="-70.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.15" y="-4.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/boca3Lucas" symbolType="graphic" centerPoint3DX="1020.45" centerPoint3DY="-63.7" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9984130859375" b="-0.0560302734375" c="0.1285400390625" d="0.994354248046875" tx="998.45" ty="-72"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50.2" y="30.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/boca3Lucas" symbolType="graphic" centerPoint3DX="1060.45" centerPoint3DY="-20" loop="loop">
+                  <matrix>
+                    <Matrix tx="1039.7" ty="-29.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50.15" y="30.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/boca2Lucas" symbolType="graphic" centerPoint3DX="1149.95" centerPoint3DY="-38.2" loop="loop">
+                  <matrix>
+                    <Matrix a="-1" c="-0.027801513671875" tx="1170.95" ty="-47.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.9" y="9.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="13" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicOut">
+              <tweens>
+                <Ease target="all" method="cubicOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/boca2Lucas" symbolType="graphic" centerPoint3DX="1168" centerPoint3DY="-58.85" loop="loop">
+                  <matrix>
+                    <Matrix a="-1" c="-0.0988311767578125" d="1.01983642578125" tx="1189.65" ty="-68.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.85" y="9.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/boca2Lucas" symbolType="graphic" centerPoint3DX="1151.55" centerPoint3DY="-55.6" loop="loop">
+                  <matrix>
+                    <Matrix a="-1" tx="1172.3" ty="-65.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.9" y="9.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/boca2Lucas" symbolType="graphic" centerPoint3DX="1149.95" centerPoint3DY="-38.2" loop="loop">
+                  <matrix>
+                    <Matrix a="-1" c="-0.027801513671875" tx="1170.95" ty="-47.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.9" y="9.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/boca3Lucas" symbolType="graphic" centerPoint3DX="1060.45" centerPoint3DY="-20" loop="loop">
+                  <matrix>
+                    <Matrix tx="1039.7" ty="-29.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50.15" y="30.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/boca3Lucas" symbolType="graphic" centerPoint3DX="1020.45" centerPoint3DY="-63.7" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9984130859375" b="-0.0560302734375" c="0.1285400390625" d="0.994354248046875" tx="998.45" ty="-72"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50.2" y="30.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bocaLucas" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.848785400390625" c="0.0327911376953125" tx="1019" ty="-70.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.15" y="-4.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bocaLucas" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="1029.65" ty="-70.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.15" y="-4.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ojos" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/ojos" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="990.2" ty="-166"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="64.85" y="49.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/ojos" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9390869140625" c="0.0348968505859375" d="1.06431579589844" tx="976.35" ty="-169.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="64.95" y="49.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/ojos3" symbolType="graphic" centerPoint3DX="1018.05" centerPoint3DY="-120.9" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9984130859375" b="-0.0560302734375" c="0.1285400390625" d="0.994354248046875" tx="946.85" ty="-166.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="64.9" y="49.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/ojos3" symbolType="graphic" centerPoint3DX="1065.1" centerPoint3DY="-72.65" loop="loop">
+                  <matrix>
+                    <Matrix tx="1000.25" ty="-122.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="64.85" y="49.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/ojos2" symbolType="graphic" centerPoint3DX="1055.15" centerPoint3DY="-98.85" loop="loop">
+                  <matrix>
+                    <Matrix c="-0.027801513671875" tx="991.65" ty="-148.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="64.9" y="49.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="13" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicOut">
+              <tweens>
+                <Ease target="all" method="cubicOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/ojos2" symbolType="graphic" centerPoint3DX="1079" centerPoint3DY="-123.1" loop="loop">
+                  <matrix>
+                    <Matrix c="-0.0988311767578125" d="1.01983642578125" tx="1019" ty="-173.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="64.9" y="49.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/ojos2" symbolType="graphic" centerPoint3DX="1055.05" centerPoint3DY="-116.25" loop="loop">
+                  <matrix>
+                    <Matrix tx="990.2" ty="-166"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="64.85" y="49.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/ojos2" symbolType="graphic" centerPoint3DX="1055.15" centerPoint3DY="-98.85" loop="loop">
+                  <matrix>
+                    <Matrix c="-0.027801513671875" tx="991.65" ty="-148.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="64.9" y="49.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/ojos3" symbolType="graphic" centerPoint3DX="1065.1" centerPoint3DY="-72.65" loop="loop">
+                  <matrix>
+                    <Matrix tx="1000.25" ty="-122.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="64.85" y="49.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/ojos3" symbolType="graphic" centerPoint3DX="1018.05" centerPoint3DY="-120.9" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9984130859375" b="-0.0560302734375" c="0.1285400390625" d="0.994354248046875" tx="946.85" ty="-166.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="64.9" y="49.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/ojos" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9390869140625" c="0.0348968505859375" d="1.06431579589844" tx="976.35" ty="-169.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="64.95" y="49.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/ojos" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="990.2" ty="-166"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="64.85" y="49.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="perilla" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/perilla" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="1033.75" ty="-44.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.35" y="2.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/perilla" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.966110229492188" b="-0.25811767578125" c="0.289794921875" d="0.9576416015625" tx="1025.1" ty="-41.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.45" y="2.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/perilla" symbolType="graphic" centerPoint3DX="1057.15" centerPoint3DY="-19.05" loop="loop">
+                  <matrix>
+                    <Matrix a="0.970306396484375" b="-0.241867065429688" c="0.312347412109375" d="0.952728271484375" tx="1040.05" ty="-27.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.45" y="2.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/perilla" symbolType="graphic" centerPoint3DX="1081.65" centerPoint3DY="16" loop="loop">
+                  <matrix>
+                    <Matrix tx="1068.2" ty="3.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.35" y="2.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/perilla" symbolType="graphic" centerPoint3DX="1131.25" centerPoint3DY="-8.7" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.81298828125" b="-0.570220947265625" c="-0.597900390625" d="0.810592651367188" tx="1149.75" ty="-11.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.25" y="2.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="13" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicOut">
+              <tweens>
+                <Ease target="all" method="cubicOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/perilla" symbolType="graphic" centerPoint3DX="1152.15" centerPoint3DY="-19.9" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.950836181640625" b="-0.22308349609375" c="-0.311447143554688" d="0.9993896484375" tx="1168.7" ty="-29.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.3" y="2.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/perilla" symbolType="graphic" centerPoint3DX="1137.95" centerPoint3DY="-15.2" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.96600341796875" b="-0.258514404296875" c="-0.258514404296875" d="0.96600341796875" tx="1154.2" ty="-24.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.3" y="2.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/perilla" symbolType="graphic" centerPoint3DX="1131.25" centerPoint3DY="-8.7" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.81298828125" b="-0.570220947265625" c="-0.597900390625" d="0.810592651367188" tx="1149.75" ty="-11.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.25" y="2.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/perilla" symbolType="graphic" centerPoint3DX="1081.65" centerPoint3DY="16" loop="loop">
+                  <matrix>
+                    <Matrix tx="1068.2" ty="3.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.35" y="2.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/perilla" symbolType="graphic" centerPoint3DX="1057.15" centerPoint3DY="-19.05" loop="loop">
+                  <matrix>
+                    <Matrix a="0.970306396484375" b="-0.241867065429688" c="0.312347412109375" d="0.952728271484375" tx="1040.05" ty="-27.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.45" y="2.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/perilla" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.966110229492188" b="-0.25811767578125" c="0.289794921875" d="0.9576416015625" tx="1025.1" ty="-41.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.45" y="2.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/perilla" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="1033.75" ty="-44.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.35" y="2.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="pelo" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pelo1" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="953.45" ty="-237.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115" y="68.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pelo1" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.053466796875" c="0.0327911376953125" tx="931.85" ty="-237.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115" y="68.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pelo4" symbolType="graphic" centerPoint3DX="1051.1" centerPoint3DY="-181.1" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9984130859375" b="-0.0560302734375" c="0.100692749023438" d="0.778961181640625" tx="908.15" ty="-214.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115.25" y="68.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pelo4" symbolType="graphic" centerPoint3DX="1098.55" centerPoint3DY="-140.2" loop="loop">
+                  <matrix>
+                    <Matrix d="1.04598999023438" tx="960.8" ty="-199.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115" y="68.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pelo1b" symbolType="graphic" centerPoint3DX="1117.6" centerPoint3DY="-166.7" loop="loop">
+                  <matrix>
+                    <Matrix a="-1" c="-0.027801513671875" tx="1256.85" ty="-222.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="114.95" y="68.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="13" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicOut">
+              <tweens>
+                <Ease target="all" method="cubicOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pelo1b" symbolType="graphic" centerPoint3DX="1137.55" centerPoint3DY="-181.95" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.992538452148438" b="-0.076873779296875" c="-0.088775634765625" d="0.91607666015625" tx="1279.1" ty="-223"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="114.8" y="68.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pelo1b" symbolType="graphic" centerPoint3DX="1108.05" centerPoint3DY="-175.1" loop="loop">
+                  <matrix>
+                    <Matrix a="-1" tx="1245.8" ty="-231.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115" y="68.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pelo1b" symbolType="graphic" centerPoint3DX="1117.6" centerPoint3DY="-166.7" loop="loop">
+                  <matrix>
+                    <Matrix a="-1" c="-0.027801513671875" tx="1256.85" ty="-222.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="114.95" y="68.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pelo4" symbolType="graphic" centerPoint3DX="1098.55" centerPoint3DY="-140.2" loop="loop">
+                  <matrix>
+                    <Matrix d="1.04598999023438" tx="960.8" ty="-199.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115" y="68.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pelo4" symbolType="graphic" centerPoint3DX="1051.1" centerPoint3DY="-181.1" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9984130859375" b="-0.0560302734375" c="0.100692749023438" d="0.778961181640625" tx="908.15" ty="-214.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115.25" y="68.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pelo1" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.053466796875" c="0.0327911376953125" tx="931.85" ty="-237.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115" y="68.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pelo1" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="953.45" ty="-237.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115" y="68.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="coloretes" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/boloretes" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="998.3" ty="-81.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="62.7" y="14.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/boloretes" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix c="0.0327911376953125" tx="988.75" ty="-81.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="62.75" y="14.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/boloretes" symbolType="graphic" centerPoint3DX="1050.2" centerPoint3DY="-60.95" loop="loop">
+                  <matrix>
+                    <Matrix a="0.999755859375" b="-0.022003173828125" c="0.0946197509765625" d="0.998153686523438" tx="986.1" ty="-73.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="62.75" y="14.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/boloretes" symbolType="graphic" centerPoint3DX="1090.5" centerPoint3DY="-14.8" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9993896484375" b="0.0349273681640625" c="-0.0349273681640625" d="0.9993896484375" tx="1028.3" ty="-31.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="62.75" y="14.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="15" duration="13" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicOut">
+              <tweens>
+                <Ease target="all" method="cubicOut"/>
+              </tweens>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="28" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="30" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="31" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/boloretes" symbolType="graphic" centerPoint3DX="1090.5" centerPoint3DY="-14.8" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9993896484375" b="0.0349273681640625" c="-0.0349273681640625" d="0.9993896484375" tx="1028.3" ty="-31.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="62.75" y="14.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/boloretes" symbolType="graphic" centerPoint3DX="1050.2" centerPoint3DY="-60.95" loop="loop">
+                  <matrix>
+                    <Matrix a="0.999755859375" b="-0.022003173828125" c="0.0946197509765625" d="0.998153686523438" tx="986.1" ty="-73.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="62.75" y="14.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/boloretes" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix c="0.0327911376953125" tx="988.75" ty="-81.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="62.75" y="14.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/boloretes" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="998.3" ty="-81.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="62.7" y="14.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="cara" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/cabeza" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="979.7" ty="-191.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="107.5" y="146.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/cabeza" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix c="0.0327911376953125" tx="969.75" ty="-191.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="107.5" y="146.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/cabeza3" symbolType="graphic" centerPoint3DX="1030.1" centerPoint3DY="-110.25" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9984130859375" b="-0.0560302734375" c="0.1285400390625" d="0.994354248046875" tx="933.05" ty="-185.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="107.65" y="146.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/cabeza3" symbolType="graphic" centerPoint3DX="1072.85" centerPoint3DY="-76.9" loop="loop">
+                  <matrix>
+                    <Matrix tx="986.15" ty="-157.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="107.5" y="146.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/cabeza2" symbolType="graphic" centerPoint3DX="1074.15" centerPoint3DY="-102.5" loop="loop">
+                  <matrix>
+                    <Matrix c="-0.027801513671875" tx="989.65" ty="-183.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="107.55" y="146.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="13" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicOut">
+              <tweens>
+                <Ease target="all" method="cubicOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/cabeza2" symbolType="graphic" centerPoint3DX="1088.35" centerPoint3DY="-115.25" loop="loop">
+                  <matrix>
+                    <Matrix c="-0.0988311767578125" d="1.01983642578125" tx="1009.55" ty="-197.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="107.55" y="146.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/cabeza2" symbolType="graphic" centerPoint3DX="1066.4" centerPoint3DY="-110.9" loop="loop">
+                  <matrix>
+                    <Matrix tx="979.7" ty="-191.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="107.5" y="146.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/cabeza2" symbolType="graphic" centerPoint3DX="1074.15" centerPoint3DY="-102.5" loop="loop">
+                  <matrix>
+                    <Matrix c="-0.027801513671875" tx="989.65" ty="-183.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="107.55" y="146.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/cabeza3" symbolType="graphic" centerPoint3DX="1072.85" centerPoint3DY="-76.9" loop="loop">
+                  <matrix>
+                    <Matrix tx="986.15" ty="-157.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="107.5" y="146.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/cabeza3" symbolType="graphic" centerPoint3DX="1030.1" centerPoint3DY="-110.25" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9984130859375" b="-0.0560302734375" c="0.1285400390625" d="0.994354248046875" tx="933.05" ty="-185.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="107.65" y="146.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/cabeza" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix c="0.0327911376953125" tx="969.75" ty="-191.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="107.5" y="146.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/cabeza" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="979.7" ty="-191.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="107.5" y="146.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="pelo" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pelo2" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="953.45" ty="-237.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115" y="68.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pelo2" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.96881103515625" c="0.036163330078125" d="1.1029052734375" tx="950.75" ty="-241.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115" y="68.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pelo2" symbolType="graphic" centerPoint3DX="1022.35" centerPoint3DY="-144.1" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9984130859375" b="-0.0560302734375" c="0.1285400390625" d="0.994354248046875" tx="900.9" ty="-230"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115.1" y="68.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pelo2" symbolType="graphic" centerPoint3DX="1069.55" centerPoint3DY="-111.2" loop="loop">
+                  <matrix>
+                    <Matrix tx="959.9" ty="-203.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115" y="68.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pelo3" symbolType="graphic" centerPoint3DX="1144.65" centerPoint3DY="-130.2" loop="loop">
+                  <matrix>
+                    <Matrix a="-1" c="-0.027801513671875" tx="1256.85" ty="-222.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="114.95" y="68.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="13" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicOut">
+              <tweens>
+                <Ease target="all" method="cubicOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pelo3" symbolType="graphic" centerPoint3DX="1161.45" centerPoint3DY="-143.5" loop="loop">
+                  <matrix>
+                    <Matrix a="-1" c="-0.0873260498046875" d="0.90118408203125" tx="1279.3" ty="-229.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="114.9" y="68.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pelo3" symbolType="graphic" centerPoint3DX="1136.15" centerPoint3DY="-138.6" loop="loop">
+                  <matrix>
+                    <Matrix a="-1" tx="1245.8" ty="-231.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115" y="68.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pelo3" symbolType="graphic" centerPoint3DX="1144.65" centerPoint3DY="-130.2" loop="loop">
+                  <matrix>
+                    <Matrix a="-1" c="-0.027801513671875" tx="1256.85" ty="-222.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="114.95" y="68.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pelo2" symbolType="graphic" centerPoint3DX="1069.55" centerPoint3DY="-111.2" loop="loop">
+                  <matrix>
+                    <Matrix tx="959.9" ty="-203.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115" y="68.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pelo2" symbolType="graphic" centerPoint3DX="1022.35" centerPoint3DY="-144.1" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9984130859375" b="-0.0560302734375" c="0.1285400390625" d="0.994354248046875" tx="900.9" ty="-230"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115.1" y="68.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pelo2" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.96881103515625" c="0.036163330078125" d="1.1029052734375" tx="950.75" ty="-241.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115" y="68.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pelo2" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="953.45" ty="-237.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115" y="68.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="oreja" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/oreja" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="1142.35" ty="-130.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.5" y="27.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/oreja" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix c="0.0327911376953125" tx="1138.6" ty="-130.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.55" y="27.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/oreja" symbolType="graphic" centerPoint3DX="1134" centerPoint3DY="-111.6" loop="loop">
+                  <matrix>
+                    <Matrix a="0.94854736328125" b="-0.265228271484375" c="0.33697509765625" d="0.9599609375" tx="1106.3" ty="-130.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.6" y="27.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/oreja" symbolType="graphic" centerPoint3DX="1176.3" centerPoint3DY="-72.45" loop="loop">
+                  <matrix>
+                    <Matrix a="0.977340698242188" b="-0.211669921875" c="0.211669921875" d="0.977340698242188" tx="1151.35" ty="-93.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.5" y="27.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/oreja" symbolType="graphic" centerPoint3DX="1191.75" centerPoint3DY="-59.65" loop="loop">
+                  <matrix>
+                    <Matrix a="0.87603759765625" c="-0.02435302734375" d="0.87603759765625" tx="1172.95" ty="-81.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.6" y="27.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="13" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicOut">
+              <tweens>
+                <Ease target="all" method="cubicOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/oreja" symbolType="graphic" centerPoint3DX="1202.9" centerPoint3DY="-71.55" loop="loop">
+                  <matrix>
+                    <Matrix a="0.87603759765625" c="-0.0865478515625" d="0.893417358398438" tx="1185.55" ty="-93.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.75" y="27.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/oreja" symbolType="graphic" centerPoint3DX="1185.2" centerPoint3DY="-68.05" loop="loop">
+                  <matrix>
+                    <Matrix a="0.87603759765625" d="0.87603759765625" tx="1165.8" ty="-90.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.55" y="27.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/oreja" symbolType="graphic" centerPoint3DX="1191.75" centerPoint3DY="-59.65" loop="loop">
+                  <matrix>
+                    <Matrix a="0.87603759765625" c="-0.02435302734375" d="0.87603759765625" tx="1172.95" ty="-81.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.6" y="27.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/oreja" symbolType="graphic" centerPoint3DX="1176.3" centerPoint3DY="-72.45" loop="loop">
+                  <matrix>
+                    <Matrix a="0.977340698242188" b="-0.211669921875" c="0.211669921875" d="0.977340698242188" tx="1151.35" ty="-93.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.5" y="27.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/oreja" symbolType="graphic" centerPoint3DX="1134" centerPoint3DY="-111.6" loop="loop">
+                  <matrix>
+                    <Matrix a="0.94854736328125" b="-0.265228271484375" c="0.33697509765625" d="0.9599609375" tx="1106.3" ty="-130.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.6" y="27.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/oreja" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix c="0.0327911376953125" tx="1138.6" ty="-130.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.55" y="27.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/oreja" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="1142.35" ty="-130.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.5" y="27.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="oreja" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/oreja" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.877685546875" d="0.877685546875" tx="1002" ty="-99.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.5" y="27.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/oreja" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.877685546875" c="0.028778076171875" d="0.877685546875" tx="1000.05" ty="-100.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.45" y="27.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/oreja" symbolType="graphic" centerPoint3DX="945.5" centerPoint3DY="-74.75" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.96844482421875" b="0.202316284179688" c="0.274658203125" d="0.975143432617188" tx="957.7" ty="-103.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.3" y="27.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/oreja" symbolType="graphic" centerPoint3DX="984.15" centerPoint3DY="-46.25" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.989013671875" b="0.147750854492188" c="0.147750854492188" d="0.989013671875" tx="1000.15" ty="-74.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.45" y="27.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/oreja" symbolType="graphic" centerPoint3DX="1044.9" centerPoint3DY="-107.2" loop="loop">
+                  <matrix>
+                    <Matrix a="-1.09959411621094" c="-0.0305633544921875" d="1.09959411621094" tx="1064.1" ty="-135.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.4" y="27.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="13" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicOut">
+              <tweens>
+                <Ease target="all" method="cubicOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/oreja" symbolType="graphic" centerPoint3DX="1060.45" centerPoint3DY="-111.5" loop="loop">
+                  <matrix>
+                    <Matrix a="-1.09959411621094" c="-0.108642578125" d="1.12139892578125" tx="1081.55" ty="-140.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.35" y="27.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/oreja" symbolType="graphic" centerPoint3DX="1038.8" centerPoint3DY="-107.2" loop="loop">
+                  <matrix>
+                    <Matrix a="-1.09959411621094" d="1.09959411621094" tx="1057.25" ty="-135.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.4" y="27.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/oreja" symbolType="graphic" centerPoint3DX="1044.9" centerPoint3DY="-107.2" loop="loop">
+                  <matrix>
+                    <Matrix a="-1.09959411621094" c="-0.0305633544921875" d="1.09959411621094" tx="1064.1" ty="-135.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.4" y="27.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/oreja" symbolType="graphic" centerPoint3DX="984.15" centerPoint3DY="-46.25" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.989013671875" b="0.147750854492188" c="0.147750854492188" d="0.989013671875" tx="1000.15" ty="-74.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.45" y="27.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/oreja" symbolType="graphic" centerPoint3DX="945.5" centerPoint3DY="-74.75" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.96844482421875" b="0.202316284179688" c="0.274658203125" d="0.975143432617188" tx="957.7" ty="-103.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.3" y="27.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/oreja" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.877685546875" c="0.028778076171875" d="0.877685546875" tx="1000.05" ty="-100.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.45" y="27.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/oreja" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.877685546875" d="0.877685546875" tx="1002" ty="-99.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.5" y="27.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="p" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/piernad" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="1041.05" ty="-59.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.5" y="67.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/piernad" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix c="0.0327911376953125" tx="1035.4" ty="-59.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.55" y="67.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pierna4d" symbolType="graphic" centerPoint3DX="1147.55" centerPoint3DY="65.1" loop="loop">
+                  <matrix>
+                    <Matrix c="0.0726470947265625" tx="1028.5" ty="-59.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="59" y="90.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pierna4d" symbolType="graphic" centerPoint3DX="1164.95" centerPoint3DY="50.1" loop="loop">
+                  <matrix>
+                    <Matrix a="0.949737548828125" b="-0.313034057617188" c="0.313034057617188" d="0.949737548828125" tx="1021.5" ty="-33.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="59.05" y="90.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/piernad2" symbolType="graphic" centerPoint3DX="1152.25" centerPoint3DY="65.1" loop="loop">
+                  <matrix>
+                    <Matrix c="-0.027801513671875" tx="1045.8" ty="-59.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.5" y="67.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="13" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicOut">
+              <tweens>
+                <Ease target="all" method="cubicOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/piernad2" symbolType="graphic" centerPoint3DX="1155.5" centerPoint3DY="64.25" loop="loop">
+                  <matrix>
+                    <Matrix c="-0.0988311767578125" d="1.01983642578125" tx="1057.8" ty="-62.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.65" y="67.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/piernad2" symbolType="graphic" centerPoint3DX="1150.95" centerPoint3DY="65.1" loop="loop">
+                  <matrix>
+                    <Matrix tx="1041.05" ty="-59.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.5" y="67.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/piernad2" symbolType="graphic" centerPoint3DX="1152.25" centerPoint3DY="65.1" loop="loop">
+                  <matrix>
+                    <Matrix c="-0.027801513671875" tx="1045.8" ty="-59.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.5" y="67.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pierna4d" symbolType="graphic" centerPoint3DX="1164.95" centerPoint3DY="50.1" loop="loop">
+                  <matrix>
+                    <Matrix a="0.949737548828125" b="-0.313034057617188" c="0.313034057617188" d="0.949737548828125" tx="1021.5" ty="-33.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="59.05" y="90.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pierna4d" symbolType="graphic" centerPoint3DX="1147.55" centerPoint3DY="65.1" loop="loop">
+                  <matrix>
+                    <Matrix c="0.0726470947265625" tx="1028.5" ty="-59.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="59" y="90.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/piernad" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix c="0.0327911376953125" tx="1035.4" ty="-59.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.55" y="67.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/piernad" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="1041.05" ty="-59.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.5" y="67.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="pierna" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pierna2" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="1039.25" ty="18.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.6" y="93.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pierna2" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix c="0.0327911376953125" tx="1036.2" ty="18.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.6" y="93.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pierna2" symbolType="graphic" centerPoint3DX="1061.7" centerPoint3DY="66.6" loop="loop">
+                  <matrix>
+                    <Matrix c="0.252182006835938" d="0.91387939453125" tx="1015.7" ty="26.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.9" y="93.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pierna2" symbolType="graphic" centerPoint3DX="1065" centerPoint3DY="66.6" loop="loop">
+                  <matrix>
+                    <Matrix a="1.07347106933594" c="0.092681884765625" d="0.835174560546875" tx="1028.65" ty="34"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27.1" y="93.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pierna3" symbolType="graphic" centerPoint3DX="1070.7" centerPoint3DY="67.4" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9959716796875" b="-0.12115478515625" c="0.180526733398438" d="0.891387939453125" tx="1039.45" ty="24.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="34.9" y="12.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="13" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicOut">
+              <tweens>
+                <Ease target="all" method="cubicOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pierna3" symbolType="graphic" centerPoint3DX="1070.9" centerPoint3DY="65.45" loop="loop">
+                  <matrix>
+                    <Matrix a="1.3446044921875" c="-0.33563232421875" d="1.01983642578125" tx="1040.65" ty="16.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35.1" y="12.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pierna3" symbolType="graphic" centerPoint3DX="1065" centerPoint3DY="66.6" loop="loop">
+                  <matrix>
+                    <Matrix tx="1039.25" ty="18.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="34.85" y="12.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pierna3" symbolType="graphic" centerPoint3DX="1070.7" centerPoint3DY="67.4" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9959716796875" b="-0.12115478515625" c="0.180526733398438" d="0.891387939453125" tx="1039.45" ty="24.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="34.9" y="12.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pierna2" symbolType="graphic" centerPoint3DX="1065" centerPoint3DY="66.6" loop="loop">
+                  <matrix>
+                    <Matrix a="1.07347106933594" c="0.092681884765625" d="0.835174560546875" tx="1028.65" ty="34"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27.1" y="93.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pierna2" symbolType="graphic" centerPoint3DX="1061.7" centerPoint3DY="66.6" loop="loop">
+                  <matrix>
+                    <Matrix c="0.252182006835938" d="0.91387939453125" tx="1015.7" ty="26.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.9" y="93.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pierna2" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix c="0.0327911376953125" tx="1036.2" ty="18.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.6" y="93.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pierna2" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="1039.25" ty="18.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.6" y="93.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="cuerpo" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/cuerpoLucas" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="1040.85" ty="-59.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.5" y="67.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/cuerpoLucas" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix c="0.0327911376953125" tx="1035.25" ty="-59.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.5" y="67.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/cuerpoLucas" symbolType="graphic" centerPoint3DX="1071.9" centerPoint3DY="-4.05" loop="loop">
+                  <matrix>
+                    <Matrix c="0.0726470947265625" tx="1012.65" ty="-52.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.55" y="67.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/cuerpoLucas" symbolType="graphic" centerPoint3DX="1086.05" centerPoint3DY="2.25" loop="loop">
+                  <matrix>
+                    <Matrix tx="1030.35" ty="-45.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.5" y="67.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/cuerpo2Lucas" symbolType="graphic" centerPoint3DX="1099.95" centerPoint3DY="-11.2" loop="loop">
+                  <matrix>
+                    <Matrix c="-0.027801513671875" tx="1045.55" ty="-59.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.55" y="67.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="13" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicOut">
+              <tweens>
+                <Ease target="all" method="cubicOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/cuerpo2Lucas" symbolType="graphic" centerPoint3DX="1108.6" centerPoint3DY="-13.55" loop="loop">
+                  <matrix>
+                    <Matrix c="-0.0988311767578125" d="1.01983642578125" tx="1057.6" ty="-62.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.65" y="67.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/cuerpo2Lucas" symbolType="graphic" centerPoint3DX="1096.55" centerPoint3DY="-11.2" loop="loop">
+                  <matrix>
+                    <Matrix tx="1040.85" ty="-59.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.5" y="67.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/cuerpo2Lucas" symbolType="graphic" centerPoint3DX="1099.95" centerPoint3DY="-11.2" loop="loop">
+                  <matrix>
+                    <Matrix c="-0.027801513671875" tx="1045.55" ty="-59.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.55" y="67.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/cuerpoLucas" symbolType="graphic" centerPoint3DX="1086.05" centerPoint3DY="2.25" loop="loop">
+                  <matrix>
+                    <Matrix tx="1030.35" ty="-45.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.5" y="67.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/cuerpoLucas" symbolType="graphic" centerPoint3DX="1071.9" centerPoint3DY="-4.05" loop="loop">
+                  <matrix>
+                    <Matrix c="0.0726470947265625" tx="1012.65" ty="-52.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.55" y="67.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/cuerpoLucas" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix c="0.0327911376953125" tx="1035.25" ty="-59.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.5" y="67.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/cuerpoLucas" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="1040.85" ty="-59.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.5" y="67.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="sombrero" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/sombrero" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="978.3" ty="-249.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="54.15" y="45.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/sombrero" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.999664306640625" b="-0.0258941650390625" c="0.145980834960938" d="0.996551513671875" tx="961.3" ty="-247.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="54.25" y="45.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/sombrero2" symbolType="graphic" centerPoint3DX="992.2" centerPoint3DY="-179.4" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9842529296875" b="-0.17657470703125" c="0.248092651367188" d="0.971435546875" tx="927.4" ty="-214.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="54.3" y="45.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/sombrero2" symbolType="graphic" centerPoint3DX="1044.95" centerPoint3DY="-154.2" loop="loop">
+                  <matrix>
+                    <Matrix tx="990.8" ty="-200"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="54.15" y="45.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/sombrero" symbolType="graphic" centerPoint3DX="1172.35" centerPoint3DY="-176.35" loop="loop">
+                  <matrix>
+                    <Matrix a="-1" c="-0.027801513671875" tx="1227.75" ty="-222.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="54.15" y="45.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="13" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicOut">
+              <tweens>
+                <Ease target="all" method="cubicOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/sombrero" symbolType="graphic" centerPoint3DX="1198.25" centerPoint3DY="-208.95" loop="loop">
+                  <matrix>
+                    <Matrix a="-1" c="-0.0988311767578125" d="1.01983642578125" tx="1256.8" ty="-255.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="54.05" y="45.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/sombrero" symbolType="graphic" centerPoint3DX="1166.8" centerPoint3DY="-196.65" loop="loop">
+                  <matrix>
+                    <Matrix a="-1" tx="1220.95" ty="-242.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="54.15" y="45.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/sombrero" symbolType="graphic" centerPoint3DX="1172.35" centerPoint3DY="-176.35" loop="loop">
+                  <matrix>
+                    <Matrix a="-1" c="-0.027801513671875" tx="1227.75" ty="-222.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="54.15" y="45.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/sombrero2" symbolType="graphic" centerPoint3DX="1044.95" centerPoint3DY="-154.2" loop="loop">
+                  <matrix>
+                    <Matrix tx="990.8" ty="-200"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="54.15" y="45.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/sombrero2" symbolType="graphic" centerPoint3DX="992.2" centerPoint3DY="-179.4" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9842529296875" b="-0.17657470703125" c="0.248092651367188" d="0.971435546875" tx="927.4" ty="-214.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="54.3" y="45.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/sombrero" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.999664306640625" b="-0.0258941650390625" c="0.145980834960938" d="0.996551513671875" tx="961.3" ty="-247.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="54.25" y="45.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/sombrero" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="978.3" ty="-249.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="54.15" y="45.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="brazoi" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/brazod" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.66986083984375" b="0.669906616210938" c="0.669906616210938" d="0.66986083984375" tx="1058.85" ty="-58.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.7" y="22.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/brazod" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.81536865234375" b="0.451324462890625" c="0.46588134765625" d="0.842803955078125" tx="1058.75" ty="-60.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.6" y="22.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/brazod" symbolType="graphic" centerPoint3DX="1029.6" centerPoint3DY="-5.15" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.84771728515625" b="0.395111083984375" c="0.346908569335938" d="0.8968505859375" tx="1046.7" ty="-44.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.7" y="22.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/brazod" symbolType="graphic" centerPoint3DX="1067.25" centerPoint3DY="11" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.201934814453125" b="0.925582885742188" c="0.925582885742188" d="0.201934814453125" tx="1046.3" ty="-25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.75" y="22.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="15" duration="13" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicOut">
+              <tweens>
+                <Ease target="all" method="cubicOut"/>
+              </tweens>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="28" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="30" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="31" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/brazod" symbolType="graphic" centerPoint3DX="1067.25" centerPoint3DY="11" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.201934814453125" b="0.925582885742188" c="0.925582885742188" d="0.201934814453125" tx="1046.3" ty="-25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.75" y="22.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/brazod" symbolType="graphic" centerPoint3DX="1029.6" centerPoint3DY="-5.15" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.84771728515625" b="0.395111083984375" c="0.346908569335938" d="0.8968505859375" tx="1046.7" ty="-44.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.7" y="22.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/brazod" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.81536865234375" b="0.451324462890625" c="0.46588134765625" d="0.842803955078125" tx="1058.75" ty="-60.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.6" y="22.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/brazod" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.66986083984375" b="0.669906616210938" c="0.669906616210938" d="0.66986083984375" tx="1058.85" ty="-58.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.7" y="22.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="brazo" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/brazod" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="1102.15" ty="-65.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6" y="23"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/brazod" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.951141357421875" b="0.308746337890625" c="-0.27752685546875" d="0.96124267578125" tx="1103.75" ty="-66.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6" y="23"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pierna2d" symbolType="graphic" centerPoint3DX="1147.55" centerPoint3DY="65.1" loop="loop">
+                  <matrix>
+                    <Matrix c="0.0726470947265625" tx="1028.5" ty="-59.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="88.85" y="108.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pierna2d" symbolType="graphic" centerPoint3DX="1150.95" centerPoint3DY="62.1" loop="loop">
+                  <matrix>
+                    <Matrix a="0.975494384765625" b="0.220016479492188" c="-0.220016479492188" d="0.975494384765625" tx="1071.1" ty="-83.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="88.8" y="108.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/brazod" symbolType="graphic" centerPoint3DX="1150.5" centerPoint3DY="-7.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9996337890625" b="0.00885009765625" c="-0.0366363525390625" d="0.999908447265625" tx="1119.1" ty="-37"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.15" y="22.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="13" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="cubicOut">
+              <tweens>
+                <Ease target="all" method="cubicOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/brazod" symbolType="graphic" centerPoint3DX="1132.1" centerPoint3DY="2.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.182861328125" b="0.949813842773438" c="-1.02555847167969" d="0.2493896484375" tx="1156.3" ty="-35.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.05" y="22.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/brazod" symbolType="graphic" centerPoint3DX="1131.7" centerPoint3DY="3.05" loop="loop">
+                  <matrix>
+                    <Matrix a="0.610321044921875" b="0.7921142578125" c="-0.7921142578125" d="0.610321044921875" tx="1135.3" ty="-40.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.1" y="22.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/brazod" symbolType="graphic" centerPoint3DX="1150.5" centerPoint3DY="-7.3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.9996337890625" b="0.00885009765625" c="-0.0366363525390625" d="0.999908447265625" tx="1119.1" ty="-37"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.15" y="22.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pierna2d" symbolType="graphic" centerPoint3DX="1150.95" centerPoint3DY="62.1" loop="loop">
+                  <matrix>
+                    <Matrix a="0.975494384765625" b="0.220016479492188" c="-0.220016479492188" d="0.975494384765625" tx="1071.1" ty="-83.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="88.8" y="108.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/pierna2d" symbolType="graphic" centerPoint3DX="1147.55" centerPoint3DY="65.1" loop="loop">
+                  <matrix>
+                    <Matrix c="0.0726470947265625" tx="1028.5" ty="-59.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="88.85" y="108.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/brazod" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.951141357421875" b="0.308746337890625" c="-0.27752685546875" d="0.96124267578125" tx="1103.75" ty="-66.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6" y="23"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" tweenType="motion" motionTweenSnap="true" keyMode="22017" easeMethodName="quartOut">
+              <tweens>
+                <Ease target="all" method="quartOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="trozos/brazod" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="1102.15" ty="-65.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6" y="23"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
