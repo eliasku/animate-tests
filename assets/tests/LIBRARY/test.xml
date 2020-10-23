@@ -134,7 +134,7 @@
                     <Point x="139.95" y="79.95"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="test_button/button" selected="true" symbolType="button" centerPoint3DX="373.3" centerPoint3DY="472.3">
+                <DOMSymbolInstance libraryItemName="test_button/button" symbolType="button" centerPoint3DX="373.3" centerPoint3DY="472.3">
                   <matrix>
                     <Matrix a="0.999984741210938" d="0.999984741210938" tx="373" ty="472"/>
                   </matrix>

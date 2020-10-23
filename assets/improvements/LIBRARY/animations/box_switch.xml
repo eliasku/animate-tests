@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="box_switch" itemID="5f91f491-00000033" lastModified="1603400889" lastUniqueIdentifier="2">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="animations/box_switch" itemID="5f91f491-00000033" lastModified="1603400889" lastUniqueIdentifier="2">
   <timeline>
     <DOMTimeline name="box_switch" currentFrame="13" layerDepthEnabled="true">
       <layers>

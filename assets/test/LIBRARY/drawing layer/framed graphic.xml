@@ -1,6 +1,6 @@
 <DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="drawing layer/framed graphic" itemID="5eb82a31-00000570" symbolType="graphic" lastModified="1589132376">
   <timeline>
-    <DOMTimeline name="framed graphic" layerDepthEnabled="true">
+    <DOMTimeline name="framed graphic" currentFrame="9" layerDepthEnabled="true">
       <layers>
         <DOMLayer name="Layer_3" color="#FF800A" current="true" isSelected="true">
           <frames>

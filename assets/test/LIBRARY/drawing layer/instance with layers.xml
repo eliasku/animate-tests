@@ -29,11 +29,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer_4" color="#FF4FFF" current="true" isSelected="true">
+        <DOMLayer name="Layer_4" color="#FF4FFF">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="graphic/spinner" selected="true">
+                <DOMSymbolInstance libraryItemName="graphic/spinner">
                   <matrix>
                     <Matrix tx="2.2" ty="1.1"/>
                   </matrix>
@@ -72,7 +72,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer_1" color="#00FFFF">
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

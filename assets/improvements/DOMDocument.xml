@@ -1,8 +1,8 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#666666" width="480" height="320" frameRate="30" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Macintosh" versionInfo="Saved by Animate Macintosh 20.5 build 31044" majorVersion="20" minorVersion="5" buildNumber="31044" viewAngle3D="48.8658374504694" vanishingPoint3DX="240" vanishingPoint3DY="160" nextSceneIdentifier="4" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="967D3F0EE88C4745B14CE22408CC83F7">
      <folders>
-          <DOMFolderItem name="animations" itemID="5f91f451-0000002b"/>
-          <DOMFolderItem name="drawings" itemID="5eb292ab-000002cf" isExpanded="true"/>
-          <DOMFolderItem name="import" itemID="5eb2b025-000002f6" isExpanded="true"/>
+          <DOMFolderItem name="animations" itemID="5f91f451-0000002b" isExpanded="true"/>
+          <DOMFolderItem name="drawings" itemID="5eb292ab-000002cf"/>
+          <DOMFolderItem name="import" itemID="5eb2b025-000002f6"/>
           <DOMFolderItem name="import/bmp0305" itemID="5eb2bd42-00000404" isExpanded="true"/>
           <DOMFolderItem name="import/preview" itemID="5eb2b128-0000031b"/>
           <DOMFolderItem name="sharing" itemID="5eb2914f-000002ab"/>
@@ -25,10 +25,10 @@
      </media>
      <symbols>
           <Include href="animations/box.xml" loadImmediate="false" itemID="5f91f47d-0000002e" lastModified="1603400829"/>
+          <Include href="animations/box_switch.xml" loadImmediate="false" itemID="5f91f491-00000033" lastModified="1603400889"/>
           <Include href="animations/mc.xml" loadImmediate="false" itemID="5eb28c6d-00000282" lastModified="1589368856"/>
-          <Include href="animations/Symbol 1.xml" loadImmediate="false" itemID="5eb28cf4-0000028d" lastModified="1603355769"/>
+          <Include href="animations/Symbol 1.xml" loadImmediate="false" itemID="5eb28cf4-0000028d" lastModified="1603459193"/>
           <Include href="bones.xml" loadImmediate="false" itemID="5eb27cc3-00000272" lastModified="1588755980"/>
-          <Include href="box_switch.xml" loadImmediate="false" itemID="5f91f491-00000033" lastModified="1603400889"/>
           <Include href="drawings/bitmap_fill.xml" loadImmediate="false" itemID="5eb4fd96-00000063" lastModified="1589368812"/>
           <Include href="drawings/pixi_test.xml" loadImmediate="false" itemID="5eb29d9f-000002e3" lastModified="1588764115"/>
           <Include href="drawings/primitive_objects.xml" loadImmediate="false" itemID="5eb2929b-000002c9" lastModified="1603410503"/>
@@ -153,8 +153,8 @@
           </swatchList>
      </extendedSwatchLists>
      <persistentData>
-          <PD n="ikTreeCount" t="i" v="6"/>
           <PD n="ikBoneCount" t="i" v="10"/>
+          <PD n="ikTreeCount" t="i" v="6"/>
           <PD n="ikNodeCount" t="i" v="16"/>
      </persistentData>
      <PrinterSettings platform="macintosh"/>

@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" duration="30" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="box_switch" name="MovieClip25" tabIndex="1" hasAccessibleData="true" centerPoint3DX="36.85" centerPoint3DY="122.8">
+                <DOMSymbolInstance libraryItemName="animations/box_switch" name="MovieClip25" tabIndex="1" hasAccessibleData="true" centerPoint3DX="36.85" centerPoint3DY="122.8">
                   <matrix>
                     <Matrix tx="36.85" ty="122.8"/>
                   </matrix>

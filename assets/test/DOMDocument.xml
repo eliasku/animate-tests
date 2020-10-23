@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="480" height="320" frameRate="30" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Macintosh" versionInfo="Saved by Animate Macintosh 20.0 build 25487" majorVersion="20" buildNumber="25487" viewAngle3D="48.8658374504694" vanishingPoint3DX="240" vanishingPoint3DY="160" previewMode="full" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="6644B666E86A49D8BFC024541DB0C332">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="480" height="320" frameRate="30" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Macintosh" versionInfo="Saved by Animate Macintosh 20.5 build 31044" majorVersion="20" minorVersion="5" buildNumber="31044" viewAngle3D="48.8658374504694" vanishingPoint3DX="240" vanishingPoint3DY="160" previewMode="full" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="6644B666E86A49D8BFC024541DB0C332">
      <folders>
           <DOMFolderItem name="drawing layer" itemID="5eb70f8c-0000051f" isExpanded="true"/>
           <DOMFolderItem name="drawings" itemID="5eb951d5-000005c1" isExpanded="true"/>
@@ -36,7 +36,7 @@
                                                   <Point x="5.25" y="-0.65"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="drawing layer/framed graphic">
+                                        <DOMSymbolInstance libraryItemName="drawing layer/framed graphic" selected="true">
                                              <matrix>
                                                   <Matrix tx="51.25" ty="123.8"/>
                                              </matrix>
@@ -44,7 +44,7 @@
                                                   <Point x="-0.55" y="-0.55"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="drawings/invalid_gradients" selected="true">
+                                        <DOMSymbolInstance libraryItemName="drawings/invalid_gradients">
                                              <matrix>
                                                   <Matrix tx="149.9" ty="152.05"/>
                                              </matrix>

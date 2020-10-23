@@ -53,17 +53,22 @@ void TestFlashApp::render_frame() {
 }
 
 void TestFlashApp::start_game() {
+    ecs::get<transform_2d>(game).matrix.ty += 100;
 //    append(game, sg_create("patch9", "nine_patch_test"));
 //    append(game, sg_create("tests", "test"));
 //    append(game, sg_create("test_0", "test"));
-    append(game, sg_create("improvements", "scene3"));
+    asset_t<sg_file> file{"test"};
+    if (!file.empty()) {
+        append(game, sg_create("test", file->scenes[0]));
+    }
 
-    ecs::get<transform_2d>(game).matrix.ty += 100;
-    append(game, sg_create("improvements", "scene1"));
-
-    auto an = sg_create("improvements", "scene2");
-    append(game, an);
-    ecs::get<transform_2d>(an).matrix.ty += 500;
+//    append(game, sg_create("improvements", "scene3"));
+//
+//    append(game, sg_create("improvements", "scene1"));
+//
+//    auto an = sg_create("improvements", "scene2");
+//    append(game, an);
+//    ecs::get<transform_2d>(an).matrix.ty += 500;
 }
 
 TestFlashApp::~TestFlashApp() = default;
