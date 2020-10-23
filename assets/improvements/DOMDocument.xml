@@ -1,11 +1,11 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#666666" width="480" height="320" frameRate="30" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Macintosh" versionInfo="Saved by Animate Macintosh 20.5 build 31044" majorVersion="20" minorVersion="5" buildNumber="31044" viewAngle3D="48.8658374504694" vanishingPoint3DX="240" vanishingPoint3DY="160" nextSceneIdentifier="4" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="967D3F0EE88C4745B14CE22408CC83F7">
      <folders>
-          <DOMFolderItem name="animations" itemID="5f91f451-0000002b" isExpanded="true"/>
+          <DOMFolderItem name="animations" itemID="5f91f451-0000002b"/>
           <DOMFolderItem name="drawings" itemID="5eb292ab-000002cf" isExpanded="true"/>
           <DOMFolderItem name="import" itemID="5eb2b025-000002f6" isExpanded="true"/>
           <DOMFolderItem name="import/bmp0305" itemID="5eb2bd42-00000404" isExpanded="true"/>
           <DOMFolderItem name="import/preview" itemID="5eb2b128-0000031b"/>
-          <DOMFolderItem name="sharing" itemID="5eb2914f-000002ab" isExpanded="true"/>
+          <DOMFolderItem name="sharing" itemID="5eb2914f-000002ab"/>
      </folders>
      <fonts>
           <DOMFontItem name="import/Font 1" itemID="5eb2b07a-000002fa" font="Arial-Black" size="0" id="2" sourceLastImported="1588768890" embedRanges="1"/>
@@ -14,7 +14,7 @@
           <DOMBitmapItem name="import/8.jpg" itemID="5eb3b8a7-00000061" sourceExternalFilepath="../improvements/LIBRARY/import/8.jpg" sourceLastImported="1581826391" sourcePlatform="macintosh" allowSmoothing="true" quality="50" href="import/8.jpg" bitmapDataHRef="M 26 1603411057.dat" frameRight="2640" frameBottom="3660" isJPEG="true"/>
           <DOMSoundItem name="import/bgm_children.mp3" itemID="5eb2b0b7-00000301" sourceExternalFilepath="../improvements/LIBRARY/import/bgm_children.mp3" sourceLastImported="1585952920" sourcePlatform="macintosh" href="import/bgm_children.mp3" soundDataHRef="M 18 1603410920.dat" format="44kHz 16bit Stereo" sampleCount="2563200" exportFormat="1" exportBits="7" dataLength="697469" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="320400"/>
           <DOMSoundItem name="import/chipquest.wav" itemID="5eb2b0d3-0000030a" sourceExternalFilepath="../improvements/LIBRARY/import/chipquest.wav" sourceLastImported="1396091464" sourcePlatform="macintosh" href="import/chipquest.wav" soundDataHRef="M 19 1603410920.dat" format="44kHz 16bit Stereo" sampleCount="87564" dataLength="350256"/>
-          <DOMBitmapItem name="import/bmp0305/Layer 30 copy" itemID="4fb254dc-00000272" sourceExternalFilepath="../tests/LIBRARY/flump/puppet parts/Layer 30 copy" sourceLastImported="1337087196" originalCompressionType="lossless" quality="90" href="import/bmp0305/Layer 30 copy" bitmapDataHRef="M 25 1603410968.dat" frameRight="5420" frameBottom="5140"/>
+          <DOMBitmapItem name="import/bmp0305/Layer 30 copy" itemID="4fb254dc-00000272" sourceExternalFilepath="../tests/LIBRARY/flump/puppet parts/Layer 30 copy" sourceLastImported="1337087196" originalCompressionType="lossless" quality="90" href="import/bmp0305/Layer 30 copy" bitmapDataHRef="M 12 1603445475.dat" frameRight="5420" frameBottom="5140"/>
           <DOMSoundItem name="import/preview.ogg" itemID="5eb2b0d3-0000030b" sourceExternalFilepath="../improvements/LIBRARY/import/preview.ogg" sourceLastImported="1396092964" sourcePlatform="macintosh" href="import/preview.ogg" soundDataHRef="M 20 1603410920.dat" format="44kHz 16bit Stereo" sampleCount="756485" dataLength="3025940"/>
           <DOMBitmapItem name="import/preview.png" itemID="5eb2d805-0000040f" sourceExternalFilepath="../improvements/LIBRARY/import/preview.png" sourceLastImported="1572783772" sourcePlatform="macintosh" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="import/preview.png" bitmapDataHRef="M 21 1603410920.dat" frameRight="1920" frameBottom="1760"/>
           <DOMBitmapItem name="import/preview/preview_0" itemID="5eb2b14e-00000324" sourceExternalFilepath="../improvements/LIBRARY/import/preview/preview_0.gif" sourceLastImported="1572783306" sourcePlatform="macintosh" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="import/preview/preview_0.gif" bitmapDataHRef="M 13 1603410920.dat" frameRight="2880" frameBottom="1920"/>
@@ -29,16 +29,16 @@
           <Include href="animations/Symbol 1.xml" loadImmediate="false" itemID="5eb28cf4-0000028d" lastModified="1603355769"/>
           <Include href="bones.xml" loadImmediate="false" itemID="5eb27cc3-00000272" lastModified="1588755980"/>
           <Include href="box_switch.xml" loadImmediate="false" itemID="5f91f491-00000033" lastModified="1603400889"/>
-          <Include href="drawings/bitmap_fill.xml" loadImmediate="false" itemID="5f921c18-0000009f" lastModified="1589368812"/>
+          <Include href="drawings/bitmap_fill.xml" loadImmediate="false" itemID="5eb4fd96-00000063" lastModified="1589368812"/>
           <Include href="drawings/pixi_test.xml" loadImmediate="false" itemID="5eb29d9f-000002e3" lastModified="1588764115"/>
           <Include href="drawings/primitive_objects.xml" loadImmediate="false" itemID="5eb2929b-000002c9" lastModified="1603410503"/>
           <Include href="drawings/strokes.xml" loadImmediate="false" itemID="5f921c71-000000ad" lastModified="1588942851"/>
           <Include href="import/preview_gif.xml" loadImmediate="false" itemID="5eb2b128-0000031c" lastModified="1588779067"/>
           <Include href="lsd_1.xml" itemIcon="3" itemID="5eb27d23-00000275" lastModified="1588755747"/>
           <Include href="lsd_2.xml" itemIcon="3" itemID="5eb27d78-00000279" lastModified="1588755832"/>
-          <Include href="scene1.xml" itemID="5f8ffb59-000000f2" lastModified="1603411092"/>
+          <Include href="scene1.xml" itemID="5f8ffb59-000000f2" lastModified="1603445484"/>
           <Include href="scene2.xml" itemID="5f8ffb81-00000100" lastModified="1603401972"/>
-          <Include href="scene3.xml" itemID="5f8ffb21-000000cb" lastModified="1603411113"/>
+          <Include href="scene3.xml" itemID="5f8ffb21-000000cb" lastModified="1603445505"/>
           <Include href="sharing/shared_parrot.xml" itemID="5eb4ff1b-000000b5" lastModified="1588920097"/>
      </symbols>
      <timelines>
@@ -48,7 +48,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="scene1" selected="true">
+                                        <DOMSymbolInstance libraryItemName="scene1">
                                              <matrix>
                                                   <Matrix tx="9.35" ty="15.4"/>
                                              </matrix>
@@ -153,8 +153,8 @@
           </swatchList>
      </extendedSwatchLists>
      <persistentData>
-          <PD n="ikBoneCount" t="i" v="10"/>
           <PD n="ikTreeCount" t="i" v="6"/>
+          <PD n="ikBoneCount" t="i" v="10"/>
           <PD n="ikNodeCount" t="i" v="16"/>
      </persistentData>
      <PrinterSettings platform="macintosh"/>

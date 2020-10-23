@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="drawings/bitmap_fill" itemID="5f921c18-0000009f" lastModified="1589368812">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="drawings/bitmap_fill" itemID="5eb4fd96-00000063" lastModified="1589368812">
   <timeline>
     <DOMTimeline name="bitmap_fill" currentFrame="19" layerDepthEnabled="true">
       <layers>
@@ -9,14 +9,14 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="import copy/bmp0305/Layer 30 copy">
+                      <BitmapFill bitmapPath="import/bmp0305/Layer 30 copy">
                         <matrix>
                           <Matrix a="5.7777099609375" d="5.7777099609375" tx="78" ty="-2.95"/>
                         </matrix>
                       </BitmapFill>
                     </FillStyle>
                     <FillStyle index="2">
-                      <BitmapFill bitmapPath="import copy/bmp0305/Layer 30 copy">
+                      <BitmapFill bitmapPath="import/bmp0305/Layer 30 copy">
                         <matrix>
                           <Matrix a="1.20947265625" b="0.69830322265625" c="-0.640869140625" d="1.1099853515625" tx="41.6" ty="17.2"/>
                         </matrix>
@@ -51,14 +51,14 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <BitmapFill bitmapPath="import copy/bmp0305/Layer 30 copy">
+                      <BitmapFill bitmapPath="import/bmp0305/Layer 30 copy">
                         <matrix>
                           <Matrix a="5.7777099609375" d="5.7777099609375" tx="78" ty="-2.95"/>
                         </matrix>
                       </BitmapFill>
                     </FillStyle>
                     <FillStyle index="2">
-                      <BitmapFill bitmapPath="import copy/bmp0305/Layer 30 copy">
+                      <BitmapFill bitmapPath="import/bmp0305/Layer 30 copy">
                         <matrix>
                           <Matrix a="-0.828903198242188" b="-1.12191772460938" c="1.02963256835938" d="-0.760711669921875" tx="44.6" ty="41.4"/>
                         </matrix>
