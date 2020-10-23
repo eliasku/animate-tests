@@ -1,12 +1,28 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="scene2" itemID="5f8ffb81-00000100" linkageExportForAS="true" linkageClassName="scene2" lastModified="1603356185">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="scene2" itemID="5f8ffb81-00000100" linkageExportForAS="true" linkageClassName="scene2" lastModified="1603401972" lastUniqueIdentifier="1">
   <timeline>
-    <DOMTimeline name="scene2" currentFrame="13" layerDepthEnabled="true">
+    <DOMTimeline name="scene2" layerDepthEnabled="true">
       <layers>
+        <DOMLayer name="mc_visibility_check" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="box_switch" name="MovieClip25" tabIndex="1" hasAccessibleData="true" centerPoint3DX="36.85" centerPoint3DY="122.8">
+                  <matrix>
+                    <Matrix tx="36.85" ty="122.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
         <DOMLayer name="Layer_1_copy_copy" color="#00FFFF" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" duration="4" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="graphic/mc" symbolType="graphic" loop="single frame">
+                <DOMSymbolInstance libraryItemName="animations/mc" symbolType="graphic" loop="single frame">
                   <matrix>
                     <Matrix tx="73" ty="22.05"/>
                   </matrix>
@@ -21,7 +37,7 @@
             </DOMFrame>
             <DOMFrame index="4" duration="13" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="graphic/mc" symbolType="graphic" centerPoint3DX="73" centerPoint3DY="22.05" loop="play once">
+                <DOMSymbolInstance libraryItemName="animations/mc" symbolType="graphic" centerPoint3DX="73" centerPoint3DY="22.05" loop="play once">
                   <matrix>
                     <Matrix tx="73" ty="22.05"/>
                   </matrix>
@@ -33,7 +49,7 @@
             </DOMFrame>
             <DOMFrame index="17" duration="13" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="graphic/mc" symbolType="graphic" centerPoint3DX="73" centerPoint3DY="22.05" loop="single frame">
+                <DOMSymbolInstance libraryItemName="animations/mc" symbolType="graphic" centerPoint3DX="73" centerPoint3DY="22.05" loop="single frame">
                   <matrix>
                     <Matrix tx="73" ty="22.05"/>
                   </matrix>
@@ -52,7 +68,7 @@
           <frames>
             <DOMFrame index="0" duration="4" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="graphic/mc" symbolType="graphic" loop="play once">
+                <DOMSymbolInstance libraryItemName="animations/mc" symbolType="graphic" loop="play once">
                   <matrix>
                     <Matrix tx="23" ty="72.05"/>
                   </matrix>
@@ -64,7 +80,7 @@
             </DOMFrame>
             <DOMFrame index="4" duration="9" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="graphic/mc" symbolType="graphic" firstFrame="3" centerPoint3DX="23" centerPoint3DY="72.05" loop="single frame">
+                <DOMSymbolInstance libraryItemName="animations/mc" symbolType="graphic" firstFrame="3" centerPoint3DX="23" centerPoint3DY="72.05" loop="single frame">
                   <matrix>
                     <Matrix tx="23" ty="72.05"/>
                   </matrix>
@@ -79,7 +95,7 @@
             </DOMFrame>
             <DOMFrame index="13" duration="17" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="graphic/mc" symbolType="graphic" firstFrame="3" centerPoint3DX="23" centerPoint3DY="72.05" loop="play once">
+                <DOMSymbolInstance libraryItemName="animations/mc" symbolType="graphic" firstFrame="3" centerPoint3DX="23" centerPoint3DY="72.05" loop="play once">
                   <matrix>
                     <Matrix tx="23" ty="72.05"/>
                   </matrix>
@@ -91,11 +107,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+        <DOMLayer name="Layer_1" color="#00FFFF">
           <frames>
             <DOMFrame index="0" duration="13" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="graphic/mc" symbolType="graphic" loop="loop">
+                <DOMSymbolInstance libraryItemName="animations/mc" symbolType="graphic" loop="loop">
                   <matrix>
                     <Matrix tx="23" ty="22.05"/>
                   </matrix>
@@ -107,7 +123,7 @@
             </DOMFrame>
             <DOMFrame index="13" duration="17" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="graphic/mc" symbolType="graphic" centerPoint3DX="23" centerPoint3DY="22.05" loop="single frame">
+                <DOMSymbolInstance libraryItemName="animations/mc" symbolType="graphic" centerPoint3DX="23" centerPoint3DY="22.05" loop="single frame">
                   <matrix>
                     <Matrix tx="23" ty="22.05"/>
                   </matrix>

@@ -1,9 +1,9 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="drawings/primitive_objects" itemID="5eb2929b-000002c9" lastModified="1588761251">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="drawings/primitive_objects" itemID="5eb2929b-000002c9" lastModified="1603410503">
   <timeline>
     <DOMTimeline name="primitive_objects" layerDepthEnabled="true">
       <layers>
         <DOMLayer name="primitives" color="#FF800A" autoNamed="false" layerType="folder"/>
-        <DOMLayer name="oval" color="#009999" parentLayerIndex="0" autoNamed="false">
+        <DOMLayer name="oval" color="#009999" parentLayerIndex="0" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -24,7 +24,7 @@
                 </DOMOvalObject>
                 <DOMOvalObject objectWidth="28" objectHeight="28" x="187" y="45.05" startAngle="35" endAngle="315">
                   <matrix>
-                    <Matrix a="1.56861877441406" d="1.069580078125" tx="-253.25" ty="31.8"/>
+                    <Matrix a="1.56861877441406" d="1.069580078125" tx="-253.25" ty="46.8"/>
                   </matrix>
                   <fill>
                     <RadialGradient>
@@ -72,24 +72,24 @@
                     </SolidStroke>
                   </stroke>
                 </DOMOvalObject>
-                <DOMOvalObject objectWidth="28" objectHeight="28" x="187" y="45.05" closePath="false" startAngle="50" innerRadius="27" endAngle="300">
+                <DOMOvalObject objectWidth="28" objectHeight="28" x="187" y="45.05" selected="true" closePath="false" startAngle="50" innerRadius="27" endAngle="300">
                   <matrix>
-                    <Matrix a="-0.681976318359375" b="-0.7313232421875" c="0.7313232421875" d="-0.68194580078125" tx="152.95" ty="326.2"/>
+                    <Matrix a="-0.681976318359375" b="-0.7313232421875" c="0.7313232421875" d="-0.68194580078125" tx="132.95" ty="328.7"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="199.6" y="59.05"/>
                   </transformationPoint>
                   <stroke>
-                    <SolidStroke scaleMode="normal" weight="2">
+                    <SolidStroke weight="2">
                       <fill>
-                        <SolidColor color="#660000"/>
+                        <SolidColor color="#330000"/>
                       </fill>
                     </SolidStroke>
                   </stroke>
                 </DOMOvalObject>
                 <DOMOvalObject objectWidth="28" objectHeight="28" x="187" y="45.05" closePath="false" startAngle="35" endAngle="315">
                   <matrix>
-                    <Matrix a="0.242218017578125" b="0.259765625" c="-0.25982666015625" d="0.242279052734375" tx="17.85" ty="64.75"/>
+                    <Matrix a="0.242218017578125" b="0.259765625" c="-0.25982666015625" d="0.242279052734375" tx="-2.15" ty="67.25"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="197.4" y="58.9"/>
@@ -139,7 +139,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMRectangleObject objectWidth="40" objectHeight="20" x="120.05" y="45.05" topLeftRadius="5" topRightRadius="22" bottomLeftRadius="50" bottomRightRadius="50">
+                <DOMRectangleObject objectWidth="40" objectHeight="20" x="120.05" y="45.05" topLeftRadius="5" topRightRadius="22" bottomLeftRadius="107" bottomRightRadius="50">
                   <matrix>
                     <Matrix tx="-80.05" ty="-35.05"/>
                   </matrix>
@@ -154,7 +154,7 @@
                     </SolidStroke>
                   </stroke>
                 </DOMRectangleObject>
-                <DOMRectangleObject objectWidth="40" objectHeight="20" x="120.05" y="45.05" topLeftRadius="4" topRightRadius="8" bottomLeftRadius="8">
+                <DOMRectangleObject objectWidth="40" objectHeight="20" x="120.05" y="45.05" topLeftRadius="4" topRightRadius="-30" bottomLeftRadius="8">
                   <matrix>
                     <Matrix tx="-80.05" ty="-5.05"/>
                   </matrix>
@@ -221,11 +221,26 @@
                     </SolidStroke>
                   </stroke>
                 </DOMRectangleObject>
+                <DOMRectangleObject objectWidth="40" objectHeight="20" x="120.05" y="45.05" topLeftRadius="-50" topRightRadius="-8" bottomLeftRadius="-4" bottomRightRadius="-4">
+                  <matrix>
+                    <Matrix tx="-80.05" ty="21.3"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#330066"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="2">
+                      <fill>
+                        <SolidColor color="#FF0000"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
               </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="rect" color="#9933CC" parentLayerIndex="0" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="rect" color="#9933CC" parentLayerIndex="0" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

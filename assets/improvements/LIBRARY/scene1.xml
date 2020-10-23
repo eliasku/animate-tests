@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="scene1" itemID="5f8ffb59-000000f2" linkageExportForAS="true" linkageClassName="scene1" lastModified="1603271691">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="scene1" itemID="5f8ffb59-000000f2" linkageExportForAS="true" linkageClassName="scene1" lastModified="1603411092">
   <timeline>
     <DOMTimeline name="scene1" layerDepthEnabled="true">
       <layers>
@@ -14,7 +14,7 @@
                     <Point x="102.75" y="80.45"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="sharing/shared_parrot" selected="true" centerPoint3DX="260.65" centerPoint3DY="65">
+                <DOMSymbolInstance libraryItemName="sharing/shared_parrot" centerPoint3DX="260.65" centerPoint3DY="65">
                   <matrix>
                     <Matrix a="0.319992065429688" d="0.319992065429688" tx="232.9" ty="20"/>
                   </matrix>

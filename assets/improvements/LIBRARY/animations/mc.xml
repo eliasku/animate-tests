@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="graphic/mc" itemID="5eb28c6d-00000282" lastModified="1589368856" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="animations/mc" itemID="5eb28c6d-00000282" lastModified="1589368856" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="mc" layerDepthEnabled="true">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" duration="13" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017">
               <elements>
-                <DOMSymbolInstance libraryItemName="graphic/Symbol 1">
+                <DOMSymbolInstance libraryItemName="animations/Symbol 1">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
@@ -15,7 +15,7 @@
             </DOMFrame>
             <DOMFrame index="13" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="graphic/Symbol 1">
+                <DOMSymbolInstance libraryItemName="animations/Symbol 1">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>

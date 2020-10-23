@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="scene3" itemID="5f8ffb21-000000cb" linkageExportForAS="true" linkageClassName="scene3" lastModified="1603271559">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="scene3" itemID="5f8ffb21-000000cb" linkageExportForAS="true" linkageClassName="scene3" lastModified="1603411113">
   <timeline>
     <DOMTimeline name="scene3" layerDepthEnabled="true">
       <layers>
@@ -22,7 +22,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer_3" color="#FF800A" current="true" isSelected="true">
+        <DOMLayer name="Layer_3" color="#FF800A">
           <frames>
             <DOMFrame index="0" duration="38" keyMode="9728">
               <elements>
@@ -83,7 +83,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer_6" color="#FF0000">
+        <DOMLayer name="Layer_6" color="#FF0000" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" duration="38" keyMode="9728">
               <elements>
