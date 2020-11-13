@@ -1,4 +1,4 @@
-#include "main.hpp"
+#include "animate_test.hpp"
 
 #include <ek/scenex/systems/main_flow.hpp>
 #include <ek/scenex/scene_system.hpp>

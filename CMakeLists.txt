@@ -2,8 +2,8 @@ cmake_minimum_required(VERSION 3.13)
 project(animate-tests)
 
 add_executable(${PROJECT_NAME}
-        src/main.hpp
-        src/main.cpp
+        src/animate_test.hpp
+        src/animate_test.cpp
         )
 
 set_target_properties(${PROJECT_NAME} PROPERTIES
