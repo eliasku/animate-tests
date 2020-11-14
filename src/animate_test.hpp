@@ -1,20 +1,8 @@
 #pragma once
 
-#ifdef EK_EDITOR
-
-#include <ek/editor/editor_app.hpp>
-
-using base_app_type = ::ek::editor_app_t;
-
-#else
-
 #include <ek/scenex/app/basic_application.hpp>
 
-using base_app_type = ::ek::basic_application;
-
-#endif
-
-class TestFlashApp : public base_app_type {
+class TestFlashApp : public ek::basic_application {
 public:
     TestFlashApp();
 

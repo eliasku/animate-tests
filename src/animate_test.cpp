@@ -2,7 +2,6 @@
 
 #include <ek/scenex/systems/main_flow.hpp>
 #include <ek/scenex/scene_system.hpp>
-#include <ek/scenex/3d/static_mesh.hpp>
 #include <ek/scenex/components/node.hpp>
 #include <ek/scenex/data/sg_factory.hpp>
 #include <ek/scenex/asset2/builtin_assets.hpp>
@@ -22,22 +21,22 @@ void main() {
 using namespace ek;
 
 TestFlashApp::TestFlashApp()
-        : base_app_type() {
+        : basic_application() {
 }
 
 void TestFlashApp::initialize() {
-    base_app_type::initialize();
+    basic_application::initialize();
     clear_color = float4{0xFF666666_argb};
 }
 
 void TestFlashApp::preload() {
-    base_app_type::preload();
+    basic_application::preload();
 
     clear_color_enabled = true;
 }
 
 void TestFlashApp::update_frame(float dt) {
-    base_app_type::update_frame(dt);
+    basic_application::update_frame(dt);
 
     scene_pre_update(root, dt);
 
@@ -53,7 +52,7 @@ void TestFlashApp::render_frame() {
 }
 
 void TestFlashApp::start_game() {
-    ecs::get<transform_2d>(game).matrix.ty += 100;
+    ecs::get<transform_2d>(game).position.y += 100;
 //    append(game, sg_create("patch9", "nine_patch_test"));
     append(game, sg_create("tests", "test"));
 //    append(game, sg_create("test_0", "test"));
@@ -66,7 +65,7 @@ void TestFlashApp::start_game() {
 //    append(game, sg_create("improvements", "scene1"));
 //    auto an = sg_create("improvements", "scene2");
 //    append(game, an);
-//    ecs::get<transform_2d>(an).matrix.ty += 500;
+//    ecs::get<transform_2d>(an).position.y += 500;
 }
 
 TestFlashApp::~TestFlashApp() = default;
