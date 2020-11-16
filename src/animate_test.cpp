@@ -48,7 +48,7 @@ void TestFlashApp::render_frame() {
 //    base_app_type::render_frame();
     if (!started_) return;
 
-    draw_node(root);
+    draw2D(root);
 }
 
 void TestFlashApp::start_game() {
