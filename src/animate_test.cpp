@@ -5,7 +5,7 @@
 #include <ek/scenex/components/node.hpp>
 #include <ek/scenex/data/sg_factory.hpp>
 #include <ek/scenex/asset2/builtin_assets.hpp>
-#include <ek/scenex/components/transform_2d.hpp>
+#include <ek/scenex/2d/Transform2D.hpp>
 
 namespace ek {
 
@@ -45,14 +45,13 @@ void TestFlashApp::update_frame(float dt) {
 }
 
 void TestFlashApp::render_frame() {
-//    base_app_type::render_frame();
-    if (!started_) return;
-
-    draw2D(root);
+    if (started_) {
+        basic_application::render_frame();
+    }
 }
 
 void TestFlashApp::start_game() {
-    ecs::get<transform_2d>(game).position.y += 100;
+    ecs::get<Transform2D>(game).position.y += 100;
 //    append(game, sg_create("patch9", "nine_patch_test"));
     append(game, sg_create("tests", "test"));
 //    append(game, sg_create("test_0", "test"));
