@@ -1,8 +1,6 @@
 #include "animate_test.hpp"
 
 #include <ek/scenex/systems/main_flow.hpp>
-#include <ek/scenex/scene_system.hpp>
-#include <ek/scenex/components/node.hpp>
 #include <ek/scenex/data/sg_factory.hpp>
 #include <ek/scenex/asset2/builtin_assets.hpp>
 #include <ek/scenex/2d/Transform2D.hpp>
@@ -27,8 +25,8 @@ TestFlashApp::TestFlashApp()
 
 void TestFlashApp::initialize() {
     basic_application::initialize();
-    root.get<Camera2D>().clearColorEnabled = true;
-    root.get<Camera2D>().clearColor = float4{0xFF666666_argb};
+    Camera2D::Main.get<Camera2D>().clearColorEnabled = true;
+    Camera2D::Main.get<Camera2D>().clearColor = float4{0xFF666666_argb};
 }
 
 void TestFlashApp::preload() {
