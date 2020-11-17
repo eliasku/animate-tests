@@ -6,6 +6,7 @@
 #include <ek/scenex/data/sg_factory.hpp>
 #include <ek/scenex/asset2/builtin_assets.hpp>
 #include <ek/scenex/2d/Transform2D.hpp>
+#include <ek/scenex/2d/Camera2D.hpp>
 
 namespace ek {
 
@@ -26,13 +27,12 @@ TestFlashApp::TestFlashApp()
 
 void TestFlashApp::initialize() {
     basic_application::initialize();
-    clear_color = float4{0xFF666666_argb};
+    root.get<Camera2D>().clearColorEnabled = true;
+    root.get<Camera2D>().clearColor = float4{0xFF666666_argb};
 }
 
 void TestFlashApp::preload() {
     basic_application::preload();
-
-    clear_color_enabled = true;
 }
 
 void TestFlashApp::update_frame(float dt) {
