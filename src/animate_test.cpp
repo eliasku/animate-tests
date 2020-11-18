@@ -9,11 +9,7 @@
 namespace ek {
 
 void main() {
-    app::g_app.window_cfg = {"TestFlashApp", {1024, 768}};
-    app::g_app.on_device_ready << [] {
-        run_app<TestFlashApp>();
-    };
-    start_application();
+    run_app<TestFlashApp>({"TestFlashApp", {1024, 768}});
 }
 }
 
