@@ -35,7 +35,7 @@ void TestFlashApp::update_frame(float dt) {
     scene_pre_update(root, dt);
 
     //update_game_title_start(w);
-    scene_post_update(root, dt);
+    scene_post_update(root);
 }
 
 void TestFlashApp::render_frame() {
