@@ -1,7 +1,8 @@
 #include "animate_test.hpp"
 
 #include <ek/scenex/systems/main_flow.hpp>
-#include <ek/scenex/data/sg_factory.hpp>
+#include <ek/scenex/data/SGFile.hpp>
+#include <ek/scenex/base/Node.hpp>
 #include <ek/scenex/asset2/builtin_assets.hpp>
 #include <ek/scenex/2d/Transform2D.hpp>
 #include <ek/scenex/2d/Camera2D.hpp>
@@ -15,8 +16,7 @@ void main() {
 
 using namespace ek;
 
-TestFlashApp::TestFlashApp()
-        : basic_application() {
+TestFlashApp::TestFlashApp() : basic_application() {
 }
 
 void TestFlashApp::initialize() {
