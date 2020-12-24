@@ -47,7 +47,8 @@ void TestFlashApp::render_frame() {
 void TestFlashApp::start_game() {
     ecs::get<Transform2D>(game).position.y += 100;
 //    append(game, sg_create("patch9", "nine_patch_test"));
-    append(game, sg_create("tests", "test"));
+//    append(game, sg_create("tests", "test"));
+    append(game, sg_create("demo_res", "icon"));
 //    append(game, sg_create("test_0", "test"));
 //    asset_t<sg_file> file{"test"};
 //    if (!file.empty()) {
